@@ -1,0 +1,5 @@
+Number Of elements sorted:10, Top Of Stack:-695454620, Bottom Of Stack:-695454248, Difference: 372.
+Number Of elements sorted:100, Top Of Stack:-695457500, Bottom Of Stack:-695454248, Difference: 3252.
+Number Of elements sorted:1000, Top Of Stack:-695486300, Bottom Of Stack:-695454248, Difference: 32052.
+Number Of elements sorted:10000, Top Of Stack:-695774300, Bottom Of Stack:-695454248, Difference: 320052.
+Number Of elements sorted:100000, Top Of Stack:-698654300, Bottom Of Stack:-695454248, Difference: 3200052.
